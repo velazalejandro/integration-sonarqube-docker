@@ -1,17 +1,29 @@
 # integration-sonarqube-docker
+# Título
+Integración de SonarQube en Docker
 
+## Comenzando 🚀
+_Estas instrucciones te permiten obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+### Pre-requisitos 📋
+_Que cosas necesitas para instalar el software y como instalarlas_
+- Manejar la consola de CMD para la ejecución de comandos.
+- Manejar el editor Notepad o Bloc de Notas para la creación de los archivos de despliegue.
+
+
+### Instalación 🔧 Pruebas ⚙️ y Despliegues 📦
 Integración de SonarQube en Docker:
 Vamos a necesitar dos imágenes Docker: una para el servidor SonarQube y otra para la base de datos, en este caso PostgreSQL. Concretamente, las imágenes que vamos a utilizar son la imagen oficial de SonarQube (sonarqube) y la imagen oficial de PostgreSQL (postgres).
-https://hub.docker.com/_/sonarqube/ -> enlace a la imagen de sonarqube
-https://hub.docker.com/_/postgres/ -> enlace a la imagen de postgres
+- https://hub.docker.com/_/sonarqube/ -> enlace a la imagen de sonarqube
+- https://hub.docker.com/_/postgres/ -> enlace a la imagen de postgres
 Instalamos las imágenes:
-docker pull sonarqube -> comando para instalar imágenes, que se encuentran en la página oficial de docker.
-docker pull postgres
+- docker pull sonarqube -> comando para instalar imágenes, que se encuentran en la página oficial de docker.
+- docker pull postgres
 
 Instalación de SonarQube utilizando docker-compose:
-Para facilitar la instalación de SonarQube en contenedores Docker vamos a utilizar el comando docker-compose up -d.
-Se puede ver el fichero docker-compose.yaml que describe cómo se van a ejecutar los contenedores, pero primero hay que crearlo.
-Creamos el fichero docker-compose.yaml en una carpeta que creamos en C: llamada opt – Docker – sonar
+- Para facilitar la instalación de SonarQube en contenedores Docker vamos a utilizar el comando docker-compose up -d.
+- Se puede ver el fichero docker-compose.yaml que describe cómo se van a ejecutar los contenedores, pero primero hay que crearlo.
+- Creamos el fichero docker-compose.yaml en una carpeta que creamos en C: llamada opt – Docker – sonar
 
 
 version: "3"
