@@ -68,3 +68,7 @@ db:
 
 
 En el cmd nos situamos en la carpeta del fichero docker-compose.yaml y ejecutamos el comando docker-compose up –d y nos instala Sonar.
+
+
+## Licencia 📄
+Bajo licencia GNU General Public License v3.0
