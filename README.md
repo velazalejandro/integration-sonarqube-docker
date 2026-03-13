@@ -8,6 +8,7 @@ _Estas instrucciones te permiten obtener una copia del proyecto en funcionamient
 ### 🛠️ Tecnologías utilizadas
 - Consola de CMD para la ejecución de comandos
 - Editor Notepad o Bloc de Notas para la creación de los archivos de despliegue
+- Docker Compose
 
 
 ### Instalación 🔧 Pruebas ⚙️ y Despliegues 📦
