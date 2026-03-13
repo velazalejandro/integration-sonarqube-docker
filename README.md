@@ -72,3 +72,8 @@ En el cmd nos situamos en la carpeta del fichero docker-compose.yaml y ejecutamo
 
 ## Licencia 📄
 Bajo licencia GNU General Public License v3.0
+
+
+## Autor
+Alejandro Velaz
+🎓 Formación: ASIR
