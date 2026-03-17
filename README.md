@@ -12,7 +12,6 @@ _Estas instrucciones te permiten obtener una copia del proyecto en funcionamient
 
 
 ### Instalación 🔧 Pruebas ⚙️ y Despliegues 📦
-Integración de SonarQube en Docker:
 Vamos a necesitar dos imágenes Docker: una para el servidor SonarQube y otra para la base de datos, en este caso PostgreSQL. Concretamente, las imágenes que vamos a utilizar son la imagen oficial de SonarQube (sonarqube) y la imagen oficial de PostgreSQL (postgres).
 - https://hub.docker.com/_/sonarqube/ -> enlace a la imagen de sonarqube
 - https://hub.docker.com/_/postgres/ -> enlace a la imagen de postgres
