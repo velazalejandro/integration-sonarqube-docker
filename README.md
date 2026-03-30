@@ -1,5 +1,5 @@
 # integration-sonarqube-docker
-## Título
+# Título
 Integración de SonarQube en Docker
 
 ### 🛠️ Tecnologías utilizadas
