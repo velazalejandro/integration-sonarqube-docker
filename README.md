@@ -1,9 +1,6 @@
 # integration-sonarqube-docker
-# Título
+## Título
 Integración de SonarQube en Docker
-
-## Comenzando 🚀
-_Estas instrucciones te permiten obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 ### 🛠️ Tecnologías utilizadas
 - Consola de CMD para la ejecución de comandos
